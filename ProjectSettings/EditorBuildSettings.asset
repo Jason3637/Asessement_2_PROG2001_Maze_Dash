@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Jasons Folder/Scenes/Maze Dash/1. Home Scene.unity
+    guid: 939e67bfbbb3d90489addbb975fb5cf6
+  - enabled: 1
+    path: Assets/Jasons Folder/Scenes/Maze Dash/2. Start Scene.unity
+    guid: 85bab3bae68cf97449b9e94b9de0de27
+  - enabled: 1
+    path: Assets/Jasons Folder/Scenes/Maze Dash/3. Levels Scene.unity
+    guid: a5beefe960169dd4298c1bc1de3f724c
+  - enabled: 1
+    path: Assets/Jasons Folder/Scenes/Maze Dash/4. Help Scene.unity
+    guid: 79905c7067b14b346892161afcb507ac
+  - enabled: 1
+    path: Assets/Jasons Folder/Scenes/Maze Dash/5. Credit Scene.unity
+    guid: 12b7108bdb9b4414f8ecfdcae127fd42
   m_configObjects: {}
