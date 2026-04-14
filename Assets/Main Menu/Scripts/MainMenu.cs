@@ -5,6 +5,11 @@ public class MenuBtn : MonoBehaviour // Change 'MainMenu' to 'MenuBtn'
 {
     // These functions must be 'public' to show up in the button settings
     
+    public void GoToHome()
+    {
+        SceneManager.LoadScene("1. Home Scene");
+    }
+
     public void GoToStart()
     {
         SceneManager.LoadScene("2. Start Scene");
