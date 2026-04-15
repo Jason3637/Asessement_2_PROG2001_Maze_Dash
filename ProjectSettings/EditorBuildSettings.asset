@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Main Menu/Scene/1. Home Scene.unity
     guid: 939e67bfbbb3d90489addbb975fb5cf6
   - enabled: 1
-    path: Assets/Jasons Folder/Scenes/Maze Dash/2. Start Scene.unity
+    path: Assets/Jasons Folder/Scenes/Maze Dash/2. Jasons Level.unity
     guid: 85bab3bae68cf97449b9e94b9de0de27
   - enabled: 1
     path: Assets/Main Menu/Scene/3. Levels Scene.unity

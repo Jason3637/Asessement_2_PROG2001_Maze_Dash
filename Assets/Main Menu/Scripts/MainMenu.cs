@@ -12,7 +12,7 @@ public class MenuBtn : MonoBehaviour // Change 'MainMenu' to 'MenuBtn'
 
     public void GoToStart()
     {
-        SceneManager.LoadScene("2. Start Scene");
+        SceneManager.LoadScene("2. Jasons Level");
     }
 
     public void GoToLevels()
